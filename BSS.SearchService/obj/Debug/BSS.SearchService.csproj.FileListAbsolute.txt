@@ -1,0 +1,7 @@
+c:\users\roybailey\documents\visual studio 2017\Projects\BSS.SearchService\BSS.SearchService\bin\Debug\BSS.SearchService.dll
+c:\users\roybailey\documents\visual studio 2017\Projects\BSS.SearchService\BSS.SearchService\bin\Debug\BSS.SearchService.pdb
+c:\users\roybailey\documents\visual studio 2017\Projects\BSS.SearchService\BSS.SearchService\bin\Debug\BSS.SearchService.DataStore.dll
+c:\users\roybailey\documents\visual studio 2017\Projects\BSS.SearchService\BSS.SearchService\bin\Debug\BSS.SearchService.DataStore.pdb
+c:\users\roybailey\documents\visual studio 2017\Projects\BSS.SearchService\BSS.SearchService\obj\Debug\BSS.SearchService.csprojResolveAssemblyReference.cache
+c:\users\roybailey\documents\visual studio 2017\Projects\BSS.SearchService\BSS.SearchService\obj\Debug\BSS.SearchService.dll
+c:\users\roybailey\documents\visual studio 2017\Projects\BSS.SearchService\BSS.SearchService\obj\Debug\BSS.SearchService.pdb
